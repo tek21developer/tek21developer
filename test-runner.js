@@ -228,7 +228,7 @@ class TestRunner {
 		    },
 		    "clientId": null,
 		    "profile": {
-		      "merchantCustomerId": "M_cust32681",
+		      "merchantCustomerId": "M_cust32680",
 		      "description": "Profile description here",
 		      "email": "cust13389@anet.net",
 		      "paymentProfiles": [
