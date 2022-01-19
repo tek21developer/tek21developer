@@ -1,3 +1,5 @@
+example run command test: node test-runner.js
+
 # Node.js Sample Code for the Authorize.Net SDK
 <!-- [![Travis CI Status](https://travis-ci.org/AuthorizeNet/sample-code-node.svg?branch=master)](https://travis-ci.org/AuthorizeNet/sample-code-node) -->
 
